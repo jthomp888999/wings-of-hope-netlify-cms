@@ -28,9 +28,14 @@ description: "  The beauty of wildlife should be viewed from afar, respected and
   have concerns regarding a possible orphaned wild bird or mammal, or have any
   questions."
 intro:
-  blurbs: []
-  heading: Our Animals
-  description: dfghdsfghdfghdfghdfghdfghdfgh
+  blurbs:
+    - image: /img/al.jpg
+      text: One of our residents here. A little about him.
+  heading: Sanctuary Residents
+  description: Some animals who arrive at Wings of Hope Wildlife Sanctuary have
+    sustained injuries or other difficulties that prevent them from surviving on
+    their own in the wild. These animals become residents of the sanctuary,
+    making it their home. To read their stories, click on an image below!
 main:
   heading: Great coffee with no compromises
   description: >
@@ -40,11 +45,11 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/jumbotron.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/chemex.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/blog-index.jpg
 ---
